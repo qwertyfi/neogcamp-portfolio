@@ -26,6 +26,7 @@ hr{
     text-decoration: none; 
 }
 
+
 .link-primary{
     background-color: var(--primary-color);
     border-radius: 0.5rem;
